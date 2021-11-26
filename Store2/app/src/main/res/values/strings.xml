@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="avatar">E-Store</string>
+    <string name="login_header">E-Store</string>
+    <string name="Email">Entrez Votre Email</string>
+    <string name="Password">Entrez Votre Mot passe</string>
+    <string name="log_in">Log in</string>
+    <string name="cover">ps4</string>
+    <string name="title_place_holder">titile</string>
+    <string name="author_placeholder">test</string>
+</resources>
